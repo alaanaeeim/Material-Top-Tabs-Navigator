@@ -1,10 +1,10 @@
-# Tab Bar Navigations Mobile App React Native Cli
+# Material Top Tab Bar Navigations Mobile App React Native Cli
 
 ## Description
 
 This is [React Native Project].
 
-It is a Tab Bar Navigations screen for Ios and Android App.
+It is a Material Top Tab Bar Navigations Example for Ios and Android App.
 
 The app is built with React Native and was developed and tested for **IOS && Android**.
 
@@ -21,9 +21,6 @@ And run using `npx react-native start` && `npx react-native run-android` && `npx
 
 <p float="left">
 
-  <img src="screenshot/tabBarAndroid.png" width="40%" />
-  <img src="screenshot/tabBarAndroid2.png" width="40%" />
-  <img src="screenshot/tabBarIos.png" width="40%" />
-  <img src="screenshot/tabBarIos2.png" width="40%" />
+  <img src="screenshot/topnavigatorAndroid.png" width="40%" />
+  <img src="screenshot/topnavigatorAndroid.png" width="40%" />
 </p>
-# Material-Top-Tabs-Navigator
